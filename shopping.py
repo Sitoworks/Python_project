@@ -1,3 +1,4 @@
+# I am trying out git commit
 item = input("what item would you like to shop today?: ")
 price = float(input("what is the price of each item?: "))
 quantity = int(input("How many would you be going for? "))
