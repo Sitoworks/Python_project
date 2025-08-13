@@ -5,8 +5,6 @@ import math
 
 # print(f"The circumference is: {circumference} ")
 
-
-
 # Calculating the area of a circle
 radius = float(input("what is the radius of the circle: "))
 # area of a circle is pi.r2
