@@ -1,6 +1,7 @@
 import math
 
-# radius = float(input("what is the radius of the circle: "))
+ radius = float(input("what is the radius of the circle: "))
+ 
 # circumference = 2 * math.pi * radius
 
 # print(f"The circumference is: {circumference} ")
